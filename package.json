@@ -1,0 +1,9 @@
+{
+  "name": "krovotkinskaya",
+  "version": "3.0.0",
+  "private": true,
+  "description": "Remastered procedural 3D horror adventure with rebuilt city courtyard, navigation AI, redesigned creatures and mobile performance",
+  "scripts": {
+    "serve": "python -m http.server 8000"
+  }
+}
